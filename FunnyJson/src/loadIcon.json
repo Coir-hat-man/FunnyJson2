@@ -1,0 +1,17 @@
+{
+    "SimpleIconFactory": {
+        "name": "simple",
+        "inter": "",
+        "leaf": ""
+    },
+    "PokerFaceFactory": {
+        "name": "poker",
+        "inter": "♢",
+        "leaf": "♤"
+    },
+    "QueenIconFactory": {
+        "name": "queen",
+        "inter": "♁",
+        "leaf": "☀"
+    }
+}
